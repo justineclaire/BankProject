@@ -1,5 +1,5 @@
 123 Justine Langridge 20 3 lang
-124 Arty Mcniff 19 2 niff
+124 Arty Mcniff 19 3 niff
 125 Luke Hemmings 25 1 hemmo
 
 126 Hyoseok Kim 13 3 rgt
